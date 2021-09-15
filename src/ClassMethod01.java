@@ -1,4 +1,4 @@
-
+//  クラス
 public class ClassMethod01 {
 	public static void main(String[] args) {
         Human01 yamada = new Human01(); //Human01クラスのインスタンスを生成
