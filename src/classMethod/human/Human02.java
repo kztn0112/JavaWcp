@@ -1,4 +1,4 @@
-//  パッケージ
+//  パッケージ宣言
 package classMethod.human;
 
 public class Human02 {
