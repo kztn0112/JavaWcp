@@ -1,6 +1,6 @@
 package practice;
 
-public class chapter09 {
+public class Chapter09 {
 	public static void main(String[] args) {
         // 燃費（Km/L）
         double fuelCost = 12.5;
